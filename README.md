@@ -1,8 +1,8 @@
-#Complex JSON Generation with Python
+**Complex JSON Generation with Python**
 
 I have generated complex JSON files using Python's faker library and other Python utilities. The generated data includes conditional logic, nested dictionaries, arrays, and lists to simulate real-world healthcare records. The output consists of 7 different JSON files representing different aspects of patient data.
 
-#Key Features
+**Key Features**
 
 **Nested Structure**:
 Each JSON file includes various levels of nesting, such as dictionaries inside lists, arrays with multiple dictionaries, and sub-objects within fields. These structures mimic the complexity found in real-world healthcare data.
