@@ -1,0 +1,1556 @@
+[
+    {
+        "doctor_id": "D1001",
+        "doctor_name": "Dr. Shyam Patel",
+        "specialities": [
+            {
+                "speciality_name": "Orthopedics",
+                "sub_specialities": [
+                    "Stroke",
+                    "Epilepsy"
+                ]
+            }
+        ],
+        "qualification": [
+            {
+                "degree": "MBBS",
+                "institution": "Gonzalez-Taylor",
+                "year_of_passing": "1999"
+            },
+            {
+                "degree": "MD",
+                "institution": "Mason Inc",
+                "year_of_passing": "1970"
+            }
+        ],
+        "experience": {
+            "total_years": 20,
+            "hospitals_worked_at": [
+                {
+                    "hospital_name": "Howe Group",
+                    "position": "Head of Department",
+                    "duration": "2012-1988"
+                }
+            ]
+        },
+        "availability": {
+            "days": [
+                "Monday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Tuesday"
+            ],
+            "timings": [
+                {
+                    "day": "Wednesday",
+                    "time_slots": [
+                        {
+                            "start_time": "10:00",
+                            "end_time": "15:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "time_slots": [
+                        {
+                            "start_time": "10:00",
+                            "end_time": "13:00"
+                        }
+                    ]
+                }
+            ]
+        },
+        "contact_information": {
+            "phone": "833.758.7589x6278",
+            "email": "jonesdonna@example.org",
+            "address": "9709 Hernandez Vista Suite 946\nCarlosport, FL 63600"
+        }
+    },
+    {
+        "doctor_id": "D1002",
+        "doctor_name": "Dr. Anjali Kapoor",
+        "specialities": [
+            {
+                "speciality_name": "Neurology",
+                "sub_specialities": [
+                    "Interventional Cardiology",
+                    "Stroke"
+                ]
+            }
+        ],
+        "qualification": [
+            {
+                "degree": "MBBS",
+                "institution": "Boyle-Green",
+                "year_of_passing": "2021"
+            },
+            {
+                "degree": "MD",
+                "institution": "Scott, Edwards and Clark",
+                "year_of_passing": "2013"
+            }
+        ],
+        "experience": {
+            "total_years": 8,
+            "hospitals_worked_at": [
+                {
+                    "hospital_name": "Coleman, Martin and Hudson",
+                    "position": "Consultant",
+                    "duration": "1978-1992"
+                }
+            ]
+        },
+        "availability": {
+            "days": [
+                "Thursday",
+                "Monday",
+                "Friday",
+                "Wednesday"
+            ],
+            "timings": [
+                {
+                    "day": "Tuesday",
+                    "time_slots": [
+                        {
+                            "start_time": "8:00",
+                            "end_time": "12:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "time_slots": [
+                        {
+                            "start_time": "9:00",
+                            "end_time": "15:00"
+                        }
+                    ]
+                }
+            ]
+        },
+        "contact_information": {
+            "phone": "+1-876-969-9227",
+            "email": "chavezjulie@example.net",
+            "address": "45185 Jessica Mountain Apt. 689\nMillerside, HI 64132"
+        }
+    },
+    {
+        "doctor_id": "D1003",
+        "doctor_name": "Dr. Rahul Mehta",
+        "specialities": [
+            {
+                "speciality_name": "Cardiology",
+                "sub_specialities": [
+                    "Diabetes",
+                    "Epilepsy"
+                ]
+            }
+        ],
+        "qualification": [
+            {
+                "degree": "MBBS",
+                "institution": "Johnson-Mccarthy",
+                "year_of_passing": "1988"
+            },
+            {
+                "degree": "MD",
+                "institution": "Myers Group",
+                "year_of_passing": "1995"
+            }
+        ],
+        "experience": {
+            "total_years": 10,
+            "hospitals_worked_at": [
+                {
+                    "hospital_name": "Pennington, Shaw and Herrera",
+                    "position": "Head of Department",
+                    "duration": "2001-1975"
+                }
+            ]
+        },
+        "availability": {
+            "days": [
+                "Friday",
+                "Tuesday",
+                "Monday",
+                "Wednesday",
+                "Thursday"
+            ],
+            "timings": [
+                {
+                    "day": "Friday",
+                    "time_slots": [
+                        {
+                            "start_time": "9:00",
+                            "end_time": "15:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Monday",
+                    "time_slots": [
+                        {
+                            "start_time": "8:00",
+                            "end_time": "14:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "time_slots": [
+                        {
+                            "start_time": "8:00",
+                            "end_time": "16:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "time_slots": [
+                        {
+                            "start_time": "10:00",
+                            "end_time": "13:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "time_slots": [
+                        {
+                            "start_time": "9:00",
+                            "end_time": "14:00"
+                        }
+                    ]
+                }
+            ]
+        },
+        "contact_information": {
+            "phone": "001-735-965-3465",
+            "email": "mcarroll@example.org",
+            "address": "524 Daniel Course\nPort Amanda, IN 20551"
+        }
+    },
+    {
+        "doctor_id": "D1004",
+        "doctor_name": "Dr. Priya Verma",
+        "specialities": [
+            {
+                "speciality_name": "Orthopedics",
+                "sub_specialities": [
+                    "Interventional Cardiology",
+                    "Stroke"
+                ]
+            }
+        ],
+        "qualification": [
+            {
+                "degree": "MBBS",
+                "institution": "Jones-Walls",
+                "year_of_passing": "1985"
+            },
+            {
+                "degree": "MD",
+                "institution": "Hernandez Group",
+                "year_of_passing": "1988"
+            }
+        ],
+        "experience": {
+            "total_years": 13,
+            "hospitals_worked_at": [
+                {
+                    "hospital_name": "Mayer-Hardy",
+                    "position": "Consultant",
+                    "duration": "2017-2009"
+                }
+            ]
+        },
+        "availability": {
+            "days": [
+                "Wednesday",
+                "Monday",
+                "Friday",
+                "Tuesday",
+                "Thursday"
+            ],
+            "timings": [
+                {
+                    "day": "Friday",
+                    "time_slots": [
+                        {
+                            "start_time": "10:00",
+                            "end_time": "15:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "time_slots": [
+                        {
+                            "start_time": "10:00",
+                            "end_time": "13:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "time_slots": [
+                        {
+                            "start_time": "9:00",
+                            "end_time": "12:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Monday",
+                    "time_slots": [
+                        {
+                            "start_time": "9:00",
+                            "end_time": "13:00"
+                        }
+                    ]
+                }
+            ]
+        },
+        "contact_information": {
+            "phone": "001-711-682-2483x35229",
+            "email": "pattersonangela@example.org",
+            "address": "167 Anthony Mission\nSouth Pennyberg, PR 52821"
+        }
+    },
+    {
+        "doctor_id": "D1005",
+        "doctor_name": "Dr. Aditya Rao",
+        "specialities": [
+            {
+                "speciality_name": "Neurology",
+                "sub_specialities": [
+                    "Diabetes",
+                    "Heart Failure"
+                ]
+            }
+        ],
+        "qualification": [
+            {
+                "degree": "MBBS",
+                "institution": "Johnson, Harris and Murphy",
+                "year_of_passing": "1987"
+            },
+            {
+                "degree": "MD",
+                "institution": "Griffith-Hill",
+                "year_of_passing": "2016"
+            }
+        ],
+        "experience": {
+            "total_years": 13,
+            "hospitals_worked_at": [
+                {
+                    "hospital_name": "Phillips-Bean",
+                    "position": "Senior Specialist",
+                    "duration": "2018-1986"
+                }
+            ]
+        },
+        "availability": {
+            "days": [
+                "Tuesday",
+                "Friday"
+            ],
+            "timings": [
+                {
+                    "day": "Tuesday",
+                    "time_slots": [
+                        {
+                            "start_time": "8:00",
+                            "end_time": "17:00"
+                        }
+                    ]
+                }
+            ]
+        },
+        "contact_information": {
+            "phone": "241.519.5656",
+            "email": "rbest@example.com",
+            "address": "30887 Michael Mountains Apt. 363\nMartinezfort, ND 88793"
+        }
+    },
+    {
+        "doctor_id": "D1006",
+        "doctor_name": "Dr. Nisha Nair",
+        "specialities": [
+            {
+                "speciality_name": "Oncology",
+                "sub_specialities": [
+                    "Stroke",
+                    "Heart Failure"
+                ]
+            }
+        ],
+        "qualification": [
+            {
+                "degree": "MBBS",
+                "institution": "Jacobs Ltd",
+                "year_of_passing": "1978"
+            },
+            {
+                "degree": "MD",
+                "institution": "Cameron Ltd",
+                "year_of_passing": "1986"
+            }
+        ],
+        "experience": {
+            "total_years": 10,
+            "hospitals_worked_at": [
+                {
+                    "hospital_name": "Pugh-Wiley",
+                    "position": "Head of Department",
+                    "duration": "1984-1999"
+                }
+            ]
+        },
+        "availability": {
+            "days": [
+                "Friday",
+                "Wednesday",
+                "Monday"
+            ],
+            "timings": [
+                {
+                    "day": "Thursday",
+                    "time_slots": [
+                        {
+                            "start_time": "10:00",
+                            "end_time": "14:00"
+                        }
+                    ]
+                }
+            ]
+        },
+        "contact_information": {
+            "phone": "968-486-5592",
+            "email": "guerrerokerry@example.org",
+            "address": "791 Carrie Fords Suite 486\nEast Kennethview, RI 24503"
+        }
+    },
+    {
+        "doctor_id": "D1007",
+        "doctor_name": "Dr. Suresh Sharma",
+        "specialities": [
+            {
+                "speciality_name": "Cardiology",
+                "sub_specialities": [
+                    "Stroke",
+                    "Epilepsy"
+                ]
+            }
+        ],
+        "qualification": [
+            {
+                "degree": "MBBS",
+                "institution": "Gonzalez and Sons",
+                "year_of_passing": "2007"
+            },
+            {
+                "degree": "MD",
+                "institution": "Morgan Group",
+                "year_of_passing": "2013"
+            }
+        ],
+        "experience": {
+            "total_years": 9,
+            "hospitals_worked_at": [
+                {
+                    "hospital_name": "Williams and Sons",
+                    "position": "Head of Department",
+                    "duration": "1989-2014"
+                }
+            ]
+        },
+        "availability": {
+            "days": [
+                "Monday",
+                "Wednesday",
+                "Tuesday",
+                "Thursday",
+                "Friday"
+            ],
+            "timings": [
+                {
+                    "day": "Monday",
+                    "time_slots": [
+                        {
+                            "start_time": "10:00",
+                            "end_time": "13:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "time_slots": [
+                        {
+                            "start_time": "9:00",
+                            "end_time": "12:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "time_slots": [
+                        {
+                            "start_time": "8:00",
+                            "end_time": "15:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "time_slots": [
+                        {
+                            "start_time": "10:00",
+                            "end_time": "16:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "time_slots": [
+                        {
+                            "start_time": "10:00",
+                            "end_time": "12:00"
+                        }
+                    ]
+                }
+            ]
+        },
+        "contact_information": {
+            "phone": "+1-347-750-6451x239",
+            "email": "zacharybarnes@example.com",
+            "address": "5818 Candace Branch Apt. 534\nLake Amanda, NM 27061"
+        }
+    },
+    {
+        "doctor_id": "D1008",
+        "doctor_name": "Dr. Kavita Gupta",
+        "specialities": [
+            {
+                "speciality_name": "Endocrinology",
+                "sub_specialities": [
+                    "Epilepsy",
+                    "Heart Failure"
+                ]
+            }
+        ],
+        "qualification": [
+            {
+                "degree": "MBBS",
+                "institution": "Zavala LLC",
+                "year_of_passing": "1975"
+            },
+            {
+                "degree": "MD",
+                "institution": "Gomez Inc",
+                "year_of_passing": "2004"
+            }
+        ],
+        "experience": {
+            "total_years": 26,
+            "hospitals_worked_at": [
+                {
+                    "hospital_name": "Curry Ltd",
+                    "position": "Head of Department",
+                    "duration": "2007-2007"
+                }
+            ]
+        },
+        "availability": {
+            "days": [
+                "Tuesday",
+                "Friday",
+                "Thursday",
+                "Wednesday"
+            ],
+            "timings": [
+                {
+                    "day": "Friday",
+                    "time_slots": [
+                        {
+                            "start_time": "9:00",
+                            "end_time": "17:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "time_slots": [
+                        {
+                            "start_time": "8:00",
+                            "end_time": "15:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "time_slots": [
+                        {
+                            "start_time": "10:00",
+                            "end_time": "13:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "time_slots": [
+                        {
+                            "start_time": "10:00",
+                            "end_time": "15:00"
+                        }
+                    ]
+                }
+            ]
+        },
+        "contact_information": {
+            "phone": "594-992-7032x819",
+            "email": "michaelharris@example.com",
+            "address": "797 Jacobson Canyon Apt. 473\nKevinside, GU 86128"
+        }
+    },
+    {
+        "doctor_id": "D1009",
+        "doctor_name": "Dr. Rohan Desai",
+        "specialities": [
+            {
+                "speciality_name": "Orthopedics",
+                "sub_specialities": [
+                    "Epilepsy",
+                    "Stroke"
+                ]
+            }
+        ],
+        "qualification": [
+            {
+                "degree": "MBBS",
+                "institution": "Reyes-Gonzalez",
+                "year_of_passing": "1970"
+            },
+            {
+                "degree": "MD",
+                "institution": "Lloyd, Williams and Thomas",
+                "year_of_passing": "1982"
+            }
+        ],
+        "experience": {
+            "total_years": 25,
+            "hospitals_worked_at": [
+                {
+                    "hospital_name": "Alvarado and Sons",
+                    "position": "Consultant",
+                    "duration": "2008-2020"
+                }
+            ]
+        },
+        "availability": {
+            "days": [
+                "Wednesday",
+                "Tuesday",
+                "Friday",
+                "Monday"
+            ],
+            "timings": [
+                {
+                    "day": "Friday",
+                    "time_slots": [
+                        {
+                            "start_time": "9:00",
+                            "end_time": "16:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "time_slots": [
+                        {
+                            "start_time": "10:00",
+                            "end_time": "13:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Monday",
+                    "time_slots": [
+                        {
+                            "start_time": "10:00",
+                            "end_time": "13:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "time_slots": [
+                        {
+                            "start_time": "10:00",
+                            "end_time": "17:00"
+                        }
+                    ]
+                }
+            ]
+        },
+        "contact_information": {
+            "phone": "353-978-1431x36857",
+            "email": "lynnthompson@example.com",
+            "address": "PSC 2800, Box 5595\nAPO AA 87082"
+        }
+    },
+    {
+        "doctor_id": "D1010",
+        "doctor_name": "Dr. Neha Bhatia",
+        "specialities": [
+            {
+                "speciality_name": "Endocrinology",
+                "sub_specialities": [
+                    "Epilepsy",
+                    "Stroke"
+                ]
+            }
+        ],
+        "qualification": [
+            {
+                "degree": "MBBS",
+                "institution": "Arnold PLC",
+                "year_of_passing": "1989"
+            },
+            {
+                "degree": "MD",
+                "institution": "Hickman-Smith",
+                "year_of_passing": "1972"
+            }
+        ],
+        "experience": {
+            "total_years": 16,
+            "hospitals_worked_at": [
+                {
+                    "hospital_name": "Williams Group",
+                    "position": "Head of Department",
+                    "duration": "1998-1990"
+                }
+            ]
+        },
+        "availability": {
+            "days": [
+                "Monday"
+            ],
+            "timings": [
+                {
+                    "day": "Tuesday",
+                    "time_slots": [
+                        {
+                            "start_time": "8:00",
+                            "end_time": "14:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Monday",
+                    "time_slots": [
+                        {
+                            "start_time": "8:00",
+                            "end_time": "14:00"
+                        }
+                    ]
+                }
+            ]
+        },
+        "contact_information": {
+            "phone": "+1-248-927-0255x7039",
+            "email": "qanderson@example.net",
+            "address": "5298 Ellison Mountain Apt. 219\nWilsonmouth, VT 90864"
+        }
+    },
+    {
+        "doctor_id": "D1011",
+        "doctor_name": "Dr. Amitabh Singh",
+        "specialities": [
+            {
+                "speciality_name": "Neurology",
+                "sub_specialities": [
+                    "Stroke",
+                    "Heart Failure"
+                ]
+            }
+        ],
+        "qualification": [
+            {
+                "degree": "MBBS",
+                "institution": "Brown-Brewer",
+                "year_of_passing": "1975"
+            },
+            {
+                "degree": "MD",
+                "institution": "Carrillo-Turner",
+                "year_of_passing": "2004"
+            }
+        ],
+        "experience": {
+            "total_years": 9,
+            "hospitals_worked_at": [
+                {
+                    "hospital_name": "Horton, Shepherd and Patrick",
+                    "position": "Head of Department",
+                    "duration": "2003-1978"
+                }
+            ]
+        },
+        "availability": {
+            "days": [
+                "Tuesday",
+                "Monday",
+                "Friday",
+                "Wednesday",
+                "Thursday"
+            ],
+            "timings": [
+                {
+                    "day": "Friday",
+                    "time_slots": [
+                        {
+                            "start_time": "10:00",
+                            "end_time": "16:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Monday",
+                    "time_slots": [
+                        {
+                            "start_time": "8:00",
+                            "end_time": "17:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "time_slots": [
+                        {
+                            "start_time": "8:00",
+                            "end_time": "16:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "time_slots": [
+                        {
+                            "start_time": "8:00",
+                            "end_time": "17:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "time_slots": [
+                        {
+                            "start_time": "10:00",
+                            "end_time": "16:00"
+                        }
+                    ]
+                }
+            ]
+        },
+        "contact_information": {
+            "phone": "+1-332-656-2342x81998",
+            "email": "robinjames@example.com",
+            "address": "884 Garrett Mill\nEast Rebeccaborough, OR 94196"
+        }
+    },
+    {
+        "doctor_id": "D1012",
+        "doctor_name": "Dr. Aditi Iyer",
+        "specialities": [
+            {
+                "speciality_name": "Orthopedics",
+                "sub_specialities": [
+                    "Stroke",
+                    "Diabetes"
+                ]
+            }
+        ],
+        "qualification": [
+            {
+                "degree": "MBBS",
+                "institution": "Joseph-Page",
+                "year_of_passing": "2011"
+            },
+            {
+                "degree": "MD",
+                "institution": "Hill-Evans",
+                "year_of_passing": "2003"
+            }
+        ],
+        "experience": {
+            "total_years": 24,
+            "hospitals_worked_at": [
+                {
+                    "hospital_name": "Martin-Edwards",
+                    "position": "Head of Department",
+                    "duration": "1981-2000"
+                }
+            ]
+        },
+        "availability": {
+            "days": [
+                "Wednesday"
+            ],
+            "timings": [
+                {
+                    "day": "Friday",
+                    "time_slots": [
+                        {
+                            "start_time": "9:00",
+                            "end_time": "15:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "time_slots": [
+                        {
+                            "start_time": "10:00",
+                            "end_time": "13:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "time_slots": [
+                        {
+                            "start_time": "10:00",
+                            "end_time": "13:00"
+                        }
+                    ]
+                }
+            ]
+        },
+        "contact_information": {
+            "phone": "330.569.2803x377",
+            "email": "brownandrea@example.org",
+            "address": "USCGC Robinson\nFPO AA 92541"
+        }
+    },
+    {
+        "doctor_id": "D1013",
+        "doctor_name": "Dr. Rajiv Menon",
+        "specialities": [
+            {
+                "speciality_name": "Cardiology",
+                "sub_specialities": [
+                    "Heart Failure",
+                    "Epilepsy"
+                ]
+            }
+        ],
+        "qualification": [
+            {
+                "degree": "MBBS",
+                "institution": "Diaz, Graham and Allen",
+                "year_of_passing": "1971"
+            },
+            {
+                "degree": "MD",
+                "institution": "White, Gonzalez and Sanders",
+                "year_of_passing": "1995"
+            }
+        ],
+        "experience": {
+            "total_years": 27,
+            "hospitals_worked_at": [
+                {
+                    "hospital_name": "Lopez Ltd",
+                    "position": "Senior Specialist",
+                    "duration": "2019-2003"
+                }
+            ]
+        },
+        "availability": {
+            "days": [
+                "Friday",
+                "Tuesday",
+                "Wednesday"
+            ],
+            "timings": [
+                {
+                    "day": "Monday",
+                    "time_slots": [
+                        {
+                            "start_time": "9:00",
+                            "end_time": "12:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "time_slots": [
+                        {
+                            "start_time": "8:00",
+                            "end_time": "15:00"
+                        }
+                    ]
+                }
+            ]
+        },
+        "contact_information": {
+            "phone": "(422)538-3889x3752",
+            "email": "lrichardson@example.com",
+            "address": "4692 Maria Lodge\nAguilarfurt, DE 03357"
+        }
+    },
+    {
+        "doctor_id": "D1014",
+        "doctor_name": "Dr. Sneha Joshi",
+        "specialities": [
+            {
+                "speciality_name": "Orthopedics",
+                "sub_specialities": [
+                    "Diabetes",
+                    "Stroke"
+                ]
+            }
+        ],
+        "qualification": [
+            {
+                "degree": "MBBS",
+                "institution": "Lee, Gonzalez and Hill",
+                "year_of_passing": "2015"
+            },
+            {
+                "degree": "MD",
+                "institution": "Gomez PLC",
+                "year_of_passing": "2015"
+            }
+        ],
+        "experience": {
+            "total_years": 29,
+            "hospitals_worked_at": [
+                {
+                    "hospital_name": "Rodriguez-Morales",
+                    "position": "Senior Specialist",
+                    "duration": "2024-2003"
+                }
+            ]
+        },
+        "availability": {
+            "days": [
+                "Tuesday",
+                "Monday",
+                "Thursday"
+            ],
+            "timings": [
+                {
+                    "day": "Friday",
+                    "time_slots": [
+                        {
+                            "start_time": "8:00",
+                            "end_time": "15:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "time_slots": [
+                        {
+                            "start_time": "9:00",
+                            "end_time": "17:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "time_slots": [
+                        {
+                            "start_time": "8:00",
+                            "end_time": "15:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Monday",
+                    "time_slots": [
+                        {
+                            "start_time": "9:00",
+                            "end_time": "17:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "time_slots": [
+                        {
+                            "start_time": "8:00",
+                            "end_time": "17:00"
+                        }
+                    ]
+                }
+            ]
+        },
+        "contact_information": {
+            "phone": "4844717658",
+            "email": "zjames@example.org",
+            "address": "5977 Jon Forest\nNew Rebekahmouth, PR 01495"
+        }
+    },
+    {
+        "doctor_id": "D1015",
+        "doctor_name": "Dr. Karan Thakur",
+        "specialities": [
+            {
+                "speciality_name": "Neurology",
+                "sub_specialities": [
+                    "Heart Failure",
+                    "Interventional Cardiology"
+                ]
+            }
+        ],
+        "qualification": [
+            {
+                "degree": "MBBS",
+                "institution": "Miller-Boyd",
+                "year_of_passing": "1985"
+            },
+            {
+                "degree": "MD",
+                "institution": "Cooper, Phillips and Schroeder",
+                "year_of_passing": "1998"
+            }
+        ],
+        "experience": {
+            "total_years": 23,
+            "hospitals_worked_at": [
+                {
+                    "hospital_name": "Santos, Cherry and Gonzalez",
+                    "position": "Senior Specialist",
+                    "duration": "1995-1980"
+                }
+            ]
+        },
+        "availability": {
+            "days": [
+                "Monday"
+            ],
+            "timings": [
+                {
+                    "day": "Tuesday",
+                    "time_slots": [
+                        {
+                            "start_time": "8:00",
+                            "end_time": "16:00"
+                        }
+                    ]
+                }
+            ]
+        },
+        "contact_information": {
+            "phone": "882.418.6655",
+            "email": "kennedyelizabeth@example.com",
+            "address": "17654 Myers Plains Suite 771\nEast Lee, NV 62399"
+        }
+    },
+    {
+        "doctor_id": "D1016",
+        "doctor_name": "Dr. Sunita Pillai",
+        "specialities": [
+            {
+                "speciality_name": "Cardiology",
+                "sub_specialities": [
+                    "Interventional Cardiology",
+                    "Epilepsy"
+                ]
+            }
+        ],
+        "qualification": [
+            {
+                "degree": "MBBS",
+                "institution": "Johnson, Hall and Nelson",
+                "year_of_passing": "2010"
+            },
+            {
+                "degree": "MD",
+                "institution": "Wilson and Sons",
+                "year_of_passing": "1988"
+            }
+        ],
+        "experience": {
+            "total_years": 27,
+            "hospitals_worked_at": [
+                {
+                    "hospital_name": "Jones Ltd",
+                    "position": "Senior Specialist",
+                    "duration": "2002-1983"
+                }
+            ]
+        },
+        "availability": {
+            "days": [
+                "Wednesday",
+                "Thursday",
+                "Friday"
+            ],
+            "timings": [
+                {
+                    "day": "Friday",
+                    "time_slots": [
+                        {
+                            "start_time": "10:00",
+                            "end_time": "16:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "time_slots": [
+                        {
+                            "start_time": "9:00",
+                            "end_time": "14:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Monday",
+                    "time_slots": [
+                        {
+                            "start_time": "9:00",
+                            "end_time": "16:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "time_slots": [
+                        {
+                            "start_time": "9:00",
+                            "end_time": "17:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "time_slots": [
+                        {
+                            "start_time": "10:00",
+                            "end_time": "12:00"
+                        }
+                    ]
+                }
+            ]
+        },
+        "contact_information": {
+            "phone": "+1-671-865-9359",
+            "email": "sstewart@example.org",
+            "address": "7271 King Locks Apt. 621\nWest Sarah, AZ 67350"
+        }
+    },
+    {
+        "doctor_id": "D1017",
+        "doctor_name": "Dr. Manoj Rao",
+        "specialities": [
+            {
+                "speciality_name": "Neurology",
+                "sub_specialities": [
+                    "Epilepsy",
+                    "Diabetes"
+                ]
+            }
+        ],
+        "qualification": [
+            {
+                "degree": "MBBS",
+                "institution": "Summers, Morrison and Smith",
+                "year_of_passing": "1972"
+            },
+            {
+                "degree": "MD",
+                "institution": "Moore, Mccarthy and Henderson",
+                "year_of_passing": "1971"
+            }
+        ],
+        "experience": {
+            "total_years": 30,
+            "hospitals_worked_at": [
+                {
+                    "hospital_name": "Curry, Evans and Wilkerson",
+                    "position": "Senior Specialist",
+                    "duration": "2016-1998"
+                }
+            ]
+        },
+        "availability": {
+            "days": [
+                "Tuesday",
+                "Monday",
+                "Friday"
+            ],
+            "timings": [
+                {
+                    "day": "Thursday",
+                    "time_slots": [
+                        {
+                            "start_time": "8:00",
+                            "end_time": "17:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "time_slots": [
+                        {
+                            "start_time": "9:00",
+                            "end_time": "17:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "time_slots": [
+                        {
+                            "start_time": "8:00",
+                            "end_time": "14:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Monday",
+                    "time_slots": [
+                        {
+                            "start_time": "8:00",
+                            "end_time": "14:00"
+                        }
+                    ]
+                }
+            ]
+        },
+        "contact_information": {
+            "phone": "(934)231-8406x56306",
+            "email": "garrett85@example.com",
+            "address": "10868 Andrea Island Apt. 766\nDickersonburgh, DC 81662"
+        }
+    },
+    {
+        "doctor_id": "D1018",
+        "doctor_name": "Dr. Deepa Kumar",
+        "specialities": [
+            {
+                "speciality_name": "Endocrinology",
+                "sub_specialities": [
+                    "Diabetes",
+                    "Interventional Cardiology"
+                ]
+            }
+        ],
+        "qualification": [
+            {
+                "degree": "MBBS",
+                "institution": "Ball LLC",
+                "year_of_passing": "2002"
+            },
+            {
+                "degree": "MD",
+                "institution": "Smith-Adams",
+                "year_of_passing": "1971"
+            }
+        ],
+        "experience": {
+            "total_years": 28,
+            "hospitals_worked_at": [
+                {
+                    "hospital_name": "Jackson Group",
+                    "position": "Consultant",
+                    "duration": "2021-1995"
+                }
+            ]
+        },
+        "availability": {
+            "days": [
+                "Tuesday"
+            ],
+            "timings": [
+                {
+                    "day": "Friday",
+                    "time_slots": [
+                        {
+                            "start_time": "8:00",
+                            "end_time": "15:00"
+                        }
+                    ]
+                }
+            ]
+        },
+        "contact_information": {
+            "phone": "(350)380-5289",
+            "email": "victoriamoreno@example.net",
+            "address": "4235 Mills Fall\nBennettview, MD 92129"
+        }
+    },
+    {
+        "doctor_id": "D1019",
+        "doctor_name": "Dr. Vivek Reddy",
+        "specialities": [
+            {
+                "speciality_name": "Cardiology",
+                "sub_specialities": [
+                    "Stroke",
+                    "Heart Failure"
+                ]
+            }
+        ],
+        "qualification": [
+            {
+                "degree": "MBBS",
+                "institution": "Ramos-Pruitt",
+                "year_of_passing": "1986"
+            },
+            {
+                "degree": "MD",
+                "institution": "Miller-Lowe",
+                "year_of_passing": "2020"
+            }
+        ],
+        "experience": {
+            "total_years": 16,
+            "hospitals_worked_at": [
+                {
+                    "hospital_name": "Navarro PLC",
+                    "position": "Head of Department",
+                    "duration": "2007-2006"
+                }
+            ]
+        },
+        "availability": {
+            "days": [
+                "Thursday",
+                "Monday",
+                "Friday",
+                "Tuesday"
+            ],
+            "timings": [
+                {
+                    "day": "Tuesday",
+                    "time_slots": [
+                        {
+                            "start_time": "9:00",
+                            "end_time": "13:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "time_slots": [
+                        {
+                            "start_time": "9:00",
+                            "end_time": "14:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Monday",
+                    "time_slots": [
+                        {
+                            "start_time": "9:00",
+                            "end_time": "17:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "time_slots": [
+                        {
+                            "start_time": "9:00",
+                            "end_time": "13:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "time_slots": [
+                        {
+                            "start_time": "8:00",
+                            "end_time": "14:00"
+                        }
+                    ]
+                }
+            ]
+        },
+        "contact_information": {
+            "phone": "(904)802-0498x365",
+            "email": "jose92@example.com",
+            "address": "5778 Crystal Rapid Apt. 892\nDiazhaven, AS 24136"
+        }
+    },
+    {
+        "doctor_id": "D1020",
+        "doctor_name": "Dr. Meera Shah",
+        "specialities": [
+            {
+                "speciality_name": "Neurology",
+                "sub_specialities": [
+                    "Interventional Cardiology",
+                    "Heart Failure"
+                ]
+            }
+        ],
+        "qualification": [
+            {
+                "degree": "MBBS",
+                "institution": "Martinez-Young",
+                "year_of_passing": "2006"
+            },
+            {
+                "degree": "MD",
+                "institution": "Osborne, Ochoa and Fernandez",
+                "year_of_passing": "1999"
+            }
+        ],
+        "experience": {
+            "total_years": 9,
+            "hospitals_worked_at": [
+                {
+                    "hospital_name": "Hamilton Ltd",
+                    "position": "Senior Specialist",
+                    "duration": "1975-2021"
+                }
+            ]
+        },
+        "availability": {
+            "days": [
+                "Thursday",
+                "Friday",
+                "Monday",
+                "Wednesday",
+                "Tuesday"
+            ],
+            "timings": [
+                {
+                    "day": "Thursday",
+                    "time_slots": [
+                        {
+                            "start_time": "8:00",
+                            "end_time": "15:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Monday",
+                    "time_slots": [
+                        {
+                            "start_time": "10:00",
+                            "end_time": "12:00"
+                        }
+                    ]
+                }
+            ]
+        },
+        "contact_information": {
+            "phone": "4336951235",
+            "email": "gonzalesamy@example.net",
+            "address": "92441 Mora Valleys Suite 989\nWest Jeffreyfurt, SC 92373"
+        }
+    }
+]
